@@ -1,16 +1,16 @@
-## Hi there 👋
+<!-- ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mk0t1k&show_icons=true&theme=dark&count_private=true&hide_rank=true) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mk0t1k&layout=compact&theme=dark&count_private=true) -->
 
-<!--
-**mk0t1k/mk0t1k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi!
+I graduated from the Physics and Mathematics Lyceum No. 30. I'm currently studying at ITMO University in the Software engineering program, group M3100.
 
-Here are some ideas to get you started:
+Stack: C and I am currently studying C++ (and Qt), Python, basics of G, Typst for making pretty pdf's.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+GitHub Stats
+
+<div align="center" style="display: flex; flex-direction: column; gap: 0; margin: 0; padding: 0;">
+  <div style="display: flex; justify-content: center; gap: 0; margin: 0; padding: 0;">
+    <img src="https://github-readme-stats.vercel.app/api?username=mk0t1k&show_icons=true&theme=dark&count_private=true&hide_rank=true&icon_color=blue" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mk0t1k&layout=compact&theme=dark&count_private=true" />
+  </div>
+</div>
