@@ -1,7 +1,7 @@
 Hi!
 I graduated from the Physics and Mathematics Lyceum No. 30. I'm currently studying at ITMO University in the Software engineering program, group M3100.
 
-Stack: C and I am currently studying C++ (and Qt), Python, basics of G, Typst for making pretty pdf's.
+Stack: C and I am currently studying C++ (and Qt), Python, basics of Go, Typst for making pretty pdf's.
 
 GitHub Stats
 
