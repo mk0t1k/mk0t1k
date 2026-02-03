@@ -7,8 +7,7 @@ GitHub Stats
 
 <div align="center" style="display: flex; flex-direction: column; gap: 0; margin: 0; padding: 0;">
   <div style="display: flex; justify-content: center; gap: 0; margin: 0; padding: 0;">
-    <img src="./images/stats.svg" />
-    
-    <img src="./images/top-langs.svg" />
+    <img src="./profile/images/stats.svg" />
+    <img src="./profile/images/top-langs.svg" />
   </div>
 </div>
