@@ -7,7 +7,8 @@ GitHub Stats
 
 <div align="center" style="display: flex; flex-direction: column; gap: 0; margin: 0; padding: 0;">
   <div style="display: flex; justify-content: center; gap: 0; margin: 0; padding: 0;">
-    <img src="https://github-readme-stats.vercel.app/api?username=mk0t1k&show_icons=true&theme=dark&count_private=true&hide_rank=true&icon_color=blue&refresh_cache=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mk0t1k&layout=compact&theme=dark&count_private=true&refresh_cache=true" />
+    <img src="https://raw.githubusercontent.com/mk0t1k/mk0t1k/main/images/stats.svg" />
+    
+    <img src="https://raw.githubusercontent.com/mk0t1k/mk0t1k/main/images/top-langs.svg" />
   </div>
 </div>

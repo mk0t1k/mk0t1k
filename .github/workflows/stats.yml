@@ -1,0 +1,41 @@
+name: Update README stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate stats card
+        uses: readme-tools/github-readme-stats-action@main
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          SAVE_LOCATION: 'images/'
+          COMMIT_FILE_SVG: 'images/stats.svg'
+          theme: dark
+          hide_rank: true
+          count_private: true
+          show_icons: true
+          icon_color: blue
+
+      - name: Generate top langs card
+        uses: readme-tools/github-readme-stats-action@main
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          SAVE_LOCATION: 'images/'
+          COMMIT_FILE_SVG: 'images/top-langs.svg'
+          type: langs
+          theme: dark
+          count_private: true
+          layout: compact
